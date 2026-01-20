@@ -1,4 +1,4 @@
-# continuum-iRSF-Kvp
+# Continuum plasticity model for Spontaneous Sequences of Earthquakes 
 
 Continuum plasticity model for Sequences of Earthquakes and Aseismic Slip (SEAS) using an invariant, consistently-linearized formulation of rate-and-state friction. This models also features Kelvin-viscoplasticity for regularization of the fault width. However, obtaining seismic slip rates then requires grid sizes down to meters. When the Kelvin viscosity is set to 0 that regularisation is no active. However, strain-rate dependent properties are already grid-size independent, because of the rate-dependence introduced by the calculation of the slip rate ( = plastic strain rate * fault width of 2 * grid size ). This model is compared to a discrete Finite Element Method model, which reproduces is results successfully. Explanations and comparison are available in Gourdarzi et al., Computational Mechanics, 2023. 
 
