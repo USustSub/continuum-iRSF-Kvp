@@ -8,3 +8,12 @@ See https://link.springer.com/article/10.1007/s00466-023-02311-0
 This code has been developed as part of the research programme DeepNL, financed by the Dutch Research Council (NWO) under project number DeepNL.2018.033.
 
 
+# How to 
+
+TODO:
+- Check simulation runs successfully
+- Add steps on how to run a simulation
+- Improve ordering files 
+
+
+
